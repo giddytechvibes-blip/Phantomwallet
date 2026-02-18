@@ -18,13 +18,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Phantom Wallet",
     description: "Phantom wallet restoration tool.",
-    url: "https://phantom-wallet-restoration.vercel.app/",
+    url: "https://phantomwallet-delta.vercel.app/",
     siteName: "Phantom Wallet Restoration",
     images: [
       {
         url:"/Phantom-Icon_Square_60x60.png",
-        width: 60,
-        height: 60,
+        width: 512,
+        height: 512,
         alt: "Phantom Wallet Restoration",
       },
     ],

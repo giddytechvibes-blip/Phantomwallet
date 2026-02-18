@@ -16,7 +16,7 @@ const HeroSection = () => {
           <p className="text-xl md:text-2xl text-[#5e4b99] mb-8">
             Your home for trading crypto, predictions, and more
           </p>
-          <Link href="/restorepage" className="bg-[#3F356B] text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-[#7a6ae8] transition-colors">
+          <Link href="/restorepage" className="bg-[#7a6ae8] text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-[#3F356B] transition-colors">
             Reset Wallet
           </Link>
         </div>
