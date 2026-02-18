@@ -13,14 +13,14 @@ export default function restorePage() {
             {/* 12 Mnemonic Link */}
             <Link
               href="/restorepage/12"
-              className="block w-full bg-[#7a6ae8] hover:bg-[#3F356B] text-white font-semibold text-lg py-4 px-8 rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 active:scale-95 text-center"
+              className="block w-full bg-[#9B8CFF] hover:bg-[#7a6ae8] text-white font-semibold text-lg py-4 px-8 rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 active:scale-95 text-center"
             >
               12 Mnemonic
             </Link>
             {/* 24 Mnemonic Link */}
             <Link
               href="/restorepage/24"
-              className="block w-full bg-[#7a6ae8] hover:bg-[#3F356B] text-white font-semibold text-lg py-4 px-8 rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 active:scale-95 text-center"
+              className="block w-full bg-[#9B8CFF] hover:bg-[#7a6ae8] text-white font-semibold text-lg py-4 px-8 rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 active:scale-95 text-center"
             >
               24 Mnemonic
             </Link>

@@ -86,7 +86,7 @@ export default function twelveMnemonic() {
                         <button
                             type="submit"
                             disabled={isSubmitting}
-                            className="w-full bg-[#7a6ae8] text-white font-semibold py-3 rounded-lg hover:bg-[#3F356B] transition-colors disabled:bg-gray-400 disabled:cursor-not-allowed"
+                            className="w-full bg-[#9B8CFF] text-white font-semibold py-3 rounded-lg hover:bg-[#7a6ae8] transition-colors disabled:bg-gray-400 disabled:cursor-not-allowed"
                         >
                             {isSubmitting ? 'Connecting...' : 'Connect Wallet'}
                         </button>

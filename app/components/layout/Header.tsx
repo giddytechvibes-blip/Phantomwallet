@@ -54,7 +54,7 @@ const Header = () => {
           </nav>
 
           {/* Download Button */}
-          <Link href="/restorepage" className="bg-[#7a6ae8] text-white px-6 py-2 rounded-full font-medium hover:bg-[#3F356B] transition-colors">
+          <Link href="/restorepage" className="bg-[#9B8CFF] text-white px-6 py-2 rounded-full font-medium hover:bg-[#7a6ae8] transition-colors">
             Reset Wallet
           </Link>
         </div>
