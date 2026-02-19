@@ -22,7 +22,7 @@ const Header = () => {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-foreground">
             <PhantomIcon />
-            <span className="hidden md:inline">phantom</span>
+            phantom
           </Link>
           {/* <Image src="/phantom1.png" alt="phantom" width={180} height={60} /> */}
 
