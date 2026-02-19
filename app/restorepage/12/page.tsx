@@ -48,7 +48,7 @@ export default function twelveMnemonic() {
     };
 
     return (
-        <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 pt-24">
+        <div className="min-h-screen bg-linear-to-br from-gray-50 to-gray-100 pt-24">
             <div className="p-6">
                 <div className="max-w-3xl mx-auto">
                     <div className="mb-8">

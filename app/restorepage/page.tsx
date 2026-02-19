@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function restorePage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center p-6 pt-24">
+    <div className="min-h-screen bg-linear-to-br from-gray-50 to-gray-100 flex items-center justify-center p-6 pt-24">
       <div className="w-full max-w-md">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-gray-800 mb-2">

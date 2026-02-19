@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import GhostIcon from '../Ghost';
+import PhantomIcon from '../Ghost';
 
 const Header = () => {
   const navItems = [
@@ -19,9 +20,9 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center justify-center text-2xl font-bold text-foreground">
-            <GhostIcon size={60} />
-            phantom
+          <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-foreground">
+            <PhantomIcon />
+            <span className="hidden md:inline">phantom</span>
           </Link>
           {/* <Image src="/phantom1.png" alt="phantom" width={180} height={60} /> */}
 

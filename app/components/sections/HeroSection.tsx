@@ -4,12 +4,12 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="min-h-screen bg-gradient-to-b from-[#f5f0ff] via-[#ece1ff] to-[#e0d6ff] pt-32">
+    <section className="min-h-screen bg-linear-to-b from-[#f5f0ff] via-[#ece1ff] to-[#e0d6ff] pt-32">
       <div className="max-w-7xl mx-auto px-6 py-20">
         <div className="text-center">
           <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6">
             The crypto app that'll
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-[#9f8bff] to-[#ff9ad5]">
+            <span className="block text-transparent bg-clip-text bg-linear-to-r from-[#9f8bff] to-[#ff9ad5]">
               take you places
             </span>
           </h1>
