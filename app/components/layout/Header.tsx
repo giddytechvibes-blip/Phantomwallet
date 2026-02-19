@@ -20,7 +20,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-foreground">
+          <Link href="/" className="flex items-center justify-center text-2xl font-bold text-foreground">
             <PhantomIcon />
             phantom
           </Link>
